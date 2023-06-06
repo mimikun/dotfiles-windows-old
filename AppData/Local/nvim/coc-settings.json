@@ -1,0 +1,11 @@
+{
+  "languageserver": {
+    "zls": {
+      "command": "zls",
+      "filetypes": ["zig"]
+    },
+  },
+  "jedi.enable": true,
+  "jedi.startupMessage": false,
+  "jedi.executable.command": "~/.asdf/shims/jedi-language-server"
+}
